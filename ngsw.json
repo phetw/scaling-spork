@@ -14,7 +14,7 @@
         "/index.html",
         "/main.c220a33edb4873ba67be.js",
         "/polyfills.1ef83d22ada557f4a131.js",
-        "/runtime.effbeeaa25e3ec78c5af.js",
+        "/runtime.6b1b4461f6cd1233476b.js",
         "/styles.099086f70931e0c5501e.css"
       ],
       "patterns": []
@@ -50,10 +50,10 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "6a590039c77f947aada77a27a639b140040de1f2",
+    "/index.html": "3256ab377f905d2188b931f201753a8433f38282",
     "/main.c220a33edb4873ba67be.js": "029da313732f64c3da55f093910a1b820c05f7cf",
     "/polyfills.1ef83d22ada557f4a131.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
-    "/runtime.effbeeaa25e3ec78c5af.js": "13ec432133d366000e261834fb03c10cd464eb11",
+    "/runtime.6b1b4461f6cd1233476b.js": "5eb5a9f308e858b392a027cfc65a04569c36f522",
     "/styles.099086f70931e0c5501e.css": "b5f639a27a4b51ecf8a34dcc88c7f508d70f8008"
   },
   "navigationUrls": [
