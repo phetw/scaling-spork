@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('normalize.css');
+@import '~@angular/material/theming';
+@import url('@angular/material/prebuilt-themes/pink-bluegrey.css');
+
+
+$custom-typography: mat-typography-config($font-family: 'Poppins, sans-serif ',
+$headline: mat-typography-level(32px, 48px, 700),
+$body-1: mat-typography-level(16px, 24px, 400));
+
+@include angular-material-typography($custom-typography);
+
+html,
+body {
+  font-family: 'Poppins', sans-serif;
+}
