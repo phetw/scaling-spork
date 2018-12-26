@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/4.027bd2d22cc1bf665d3e.js",
+        "/5.bbd4d6bdd194585df0df.js",
+        "/6.cf35a62fa7059cb489a1.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.c220a33edb4873ba67be.js",
+        "/polyfills.1ef83d22ada557f4a131.js",
+        "/runtime.acc6114fcd5094667a38.js",
+        "/styles.099086f70931e0c5501e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4.027bd2d22cc1bf665d3e.js": "94ba0453f605fc38248f5cd4374b36f46bca92f5",
+    "/5.bbd4d6bdd194585df0df.js": "c120088871b47a0a09c0009a93033b18da0a5bf2",
+    "/6.cf35a62fa7059cb489a1.js": "4a5dc04487d2af40181aa2216bff3158bd857368",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "4e44d9b640e92cee721597d6749e9859f954efe3",
+    "/main.c220a33edb4873ba67be.js": "029da313732f64c3da55f093910a1b820c05f7cf",
+    "/polyfills.1ef83d22ada557f4a131.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
+    "/runtime.acc6114fcd5094667a38.js": "4a6761618233e92aecc6da22f76d358d848edeaa",
+    "/styles.099086f70931e0c5501e.css": "b5f639a27a4b51ecf8a34dcc88c7f508d70f8008"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
