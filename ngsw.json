@@ -1,21 +1,21 @@
 {
   "configVersion": 1,
-  "index": "https://rappad.github.io/scaling-spork/index.html",
+  "index": "/scaling-spork/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://rappad.github.io/scaling-spork/4.027bd2d22cc1bf665d3e.js",
-        "https://rappad.github.io/scaling-spork/5.bbd4d6bdd194585df0df.js",
-        "https://rappad.github.io/scaling-spork/6.cf35a62fa7059cb489a1.js",
-        "https://rappad.github.io/scaling-spork/favicon.ico",
-        "https://rappad.github.io/scaling-spork/index.html",
-        "https://rappad.github.io/scaling-spork/main.1bb3a665511c9c057490.js",
-        "https://rappad.github.io/scaling-spork/polyfills.1ef83d22ada557f4a131.js",
-        "https://rappad.github.io/scaling-spork/runtime.acc6114fcd5094667a38.js",
-        "https://rappad.github.io/scaling-spork/styles.099086f70931e0c5501e.css"
+        "/scaling-spork/4.027bd2d22cc1bf665d3e.js",
+        "/scaling-spork/5.bbd4d6bdd194585df0df.js",
+        "/scaling-spork/6.cf35a62fa7059cb489a1.js",
+        "/scaling-spork/favicon.ico",
+        "/scaling-spork/index.html",
+        "/scaling-spork/main.1bb3a665511c9c057490.js",
+        "/scaling-spork/polyfills.1ef83d22ada557f4a131.js",
+        "/scaling-spork/runtime.acc6114fcd5094667a38.js",
+        "/scaling-spork/styles.099086f70931e0c5501e.css"
       ],
       "patterns": []
     },
@@ -24,37 +24,37 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-128x128.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-144x144.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-152x152.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-192x192.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-384x384.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-512x512.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-72x72.png",
-        "https://rappad.github.io/scaling-spork/assets/icons/icon-96x96.png"
+        "/scaling-spork/assets/icons/icon-128x128.png",
+        "/scaling-spork/assets/icons/icon-144x144.png",
+        "/scaling-spork/assets/icons/icon-152x152.png",
+        "/scaling-spork/assets/icons/icon-192x192.png",
+        "/scaling-spork/assets/icons/icon-384x384.png",
+        "/scaling-spork/assets/icons/icon-512x512.png",
+        "/scaling-spork/assets/icons/icon-72x72.png",
+        "/scaling-spork/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://rappad.github.io/scaling-spork/4.027bd2d22cc1bf665d3e.js": "94ba0453f605fc38248f5cd4374b36f46bca92f5",
-    "https://rappad.github.io/scaling-spork/5.bbd4d6bdd194585df0df.js": "c120088871b47a0a09c0009a93033b18da0a5bf2",
-    "https://rappad.github.io/scaling-spork/6.cf35a62fa7059cb489a1.js": "4a5dc04487d2af40181aa2216bff3158bd857368",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://rappad.github.io/scaling-spork/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://rappad.github.io/scaling-spork/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://rappad.github.io/scaling-spork/index.html": "2ed7ee7e91f67324e4215bf5a1d771b3dbc5a8dc",
-    "https://rappad.github.io/scaling-spork/main.1bb3a665511c9c057490.js": "251ea21aed38148e2fd55a1eeccbb708451504cc",
-    "https://rappad.github.io/scaling-spork/polyfills.1ef83d22ada557f4a131.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
-    "https://rappad.github.io/scaling-spork/runtime.acc6114fcd5094667a38.js": "4a6761618233e92aecc6da22f76d358d848edeaa",
-    "https://rappad.github.io/scaling-spork/styles.099086f70931e0c5501e.css": "b5f639a27a4b51ecf8a34dcc88c7f508d70f8008"
+    "/scaling-spork/4.027bd2d22cc1bf665d3e.js": "94ba0453f605fc38248f5cd4374b36f46bca92f5",
+    "/scaling-spork/5.bbd4d6bdd194585df0df.js": "c120088871b47a0a09c0009a93033b18da0a5bf2",
+    "/scaling-spork/6.cf35a62fa7059cb489a1.js": "4a5dc04487d2af40181aa2216bff3158bd857368",
+    "/scaling-spork/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/scaling-spork/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/scaling-spork/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/scaling-spork/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/scaling-spork/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/scaling-spork/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/scaling-spork/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/scaling-spork/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/scaling-spork/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/scaling-spork/index.html": "38ae510f2d0171c003365c73ff9fb524d13a0702",
+    "/scaling-spork/main.1bb3a665511c9c057490.js": "251ea21aed38148e2fd55a1eeccbb708451504cc",
+    "/scaling-spork/polyfills.1ef83d22ada557f4a131.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
+    "/scaling-spork/runtime.acc6114fcd5094667a38.js": "4a6761618233e92aecc6da22f76d358d848edeaa",
+    "/scaling-spork/styles.099086f70931e0c5501e.css": "b5f639a27a4b51ecf8a34dcc88c7f508d70f8008"
   },
   "navigationUrls": [
     {
