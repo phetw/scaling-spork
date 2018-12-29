@@ -1,0 +1,13 @@
+.card {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+
+  button {
+    margin: 10px;
+  }
+}
