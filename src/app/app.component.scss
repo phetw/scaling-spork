@@ -3,6 +3,12 @@
   min-height: 100vh;
 }
 
+.toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
 .header {
   display: flex;
   flex-direction: row;
@@ -24,6 +30,10 @@
       display: inline-block;
     }
   }
+}
+
+.side-nav {
+  margin-top: 56px;
 }
 
 @media (max-width:767px) {
