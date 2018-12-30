@@ -17,10 +17,10 @@ import { MatProgressBarModule } from '@angular/material/progress-bar'
 
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component'
 
+import { counterReducer } from './store/counter.reducer'
+
 import { ServiceWorkerModule } from '@angular/service-worker'
 import { environment } from '../environments/environment'
-
-import { counterReducer } from './counter.reducer'
 
 const MATERIAL_MODULES = [MatProgressBarModule, MatToolbarModule, MatIconModule, MatSidenavModule, MatButtonModule, MatListModule]
 @NgModule({
