@@ -17,7 +17,7 @@ import { MatProgressBarModule } from '@angular/material/progress-bar'
 
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component'
 
-import { counterReducer } from './store/counter.reducer'
+import { counterReducer } from './store/count/counter.reducer'
 
 import { ServiceWorkerModule } from '@angular/service-worker'
 import { environment } from '../environments/environment'

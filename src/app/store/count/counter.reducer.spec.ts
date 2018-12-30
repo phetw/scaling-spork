@@ -1,8 +1,8 @@
 import { Action } from '@ngrx/store'
 import { initialState, counterReducer } from './counter.reducer'
-import { ActionTypes, Increment, Decrement, Reset } from './counter.actions'
+import { Increment, Decrement, Reset } from './counter.actions'
 
-describe('counter reducer', () => {
+describe('Counter reducer', () => {
   describe('undefined action', () => {
     it('should return the default state', () => {
       const action: Action = {
