@@ -7,7 +7,7 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/scaling-spork/5.bef72a44b0b2dc72b053.js",
+        "/scaling-spork/5.1142c292e06867cc75d2.js",
         "/scaling-spork/6.ec2ee3e9c9d874f74a47.js",
         "/scaling-spork/7.b47245eff5e0a196f7fa.js",
         "/scaling-spork/8.4761ea4db2845039989f.js",
@@ -16,8 +16,8 @@
         "/scaling-spork/index.html",
         "/scaling-spork/main.78f3357d30fe504dd45a.js",
         "/scaling-spork/polyfills.beb91b000bc0e851c7bc.js",
-        "/scaling-spork/runtime.23e08385f4d0c45d120a.js",
-        "/scaling-spork/styles.70d9ea0c8a7d123fa2c3.css"
+        "/scaling-spork/runtime.41de3e0a73078eac5032.js",
+        "/scaling-spork/styles.7e34f3effde48ea0a403.css"
       ],
       "patterns": []
     },
@@ -40,7 +40,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/scaling-spork/5.bef72a44b0b2dc72b053.js": "3b8dc7a3bd937ebddfebdd6626af380ae9928b6e",
+    "/scaling-spork/5.1142c292e06867cc75d2.js": "55940eddc528a63ce9512b9c0556b0d75d047a80",
     "/scaling-spork/6.ec2ee3e9c9d874f74a47.js": "6ddc665f42b7a8609ec78b4962ce5c6b97b7c05f",
     "/scaling-spork/7.b47245eff5e0a196f7fa.js": "8f98e117f80c310f9f0aa1827317d291dcbbc154",
     "/scaling-spork/8.4761ea4db2845039989f.js": "78183e31c372114b2764a1372fc1f241d0beee93",
@@ -54,11 +54,11 @@
     "/scaling-spork/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/scaling-spork/common.b92ee6645330cae2829c.js": "eaba2aef80ff5ac88e0edc83dbe0fa0c511253cc",
     "/scaling-spork/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/scaling-spork/index.html": "6650a72d3297ddbf74a16bc725a986cd310fa991",
+    "/scaling-spork/index.html": "2eefae52020184be5a0026cc496b2b3ab5364ce2",
     "/scaling-spork/main.78f3357d30fe504dd45a.js": "268b17a54bd3ee644277393dc152ae84cdf52e20",
     "/scaling-spork/polyfills.beb91b000bc0e851c7bc.js": "d06fe27ea2654e2f90a01a4ddf617cf984942554",
-    "/scaling-spork/runtime.23e08385f4d0c45d120a.js": "9a37f53db92a150d0ed6e26f04541a9d4c8d7b1d",
-    "/scaling-spork/styles.70d9ea0c8a7d123fa2c3.css": "c480cb33be9786c3055b2a110eb8bedba6233e6e"
+    "/scaling-spork/runtime.41de3e0a73078eac5032.js": "445a80266d0a6aac1a169f3954a05cce31c3e690",
+    "/scaling-spork/styles.7e34f3effde48ea0a403.css": "19b10fc365bcc59aba98e36909a4029d07b10226"
   },
   "navigationUrls": [
     {
