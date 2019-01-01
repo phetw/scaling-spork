@@ -1,0 +1,62 @@
+.toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  &__title {
+    cursor: pointer;
+  }
+
+  &__item {
+    margin: 0 0.65rem;
+  }
+
+  &__desktop-nav-list {
+    padding: 0;
+
+    a {
+      width: auto;
+      display: inline-block;
+    }
+  }
+}
+
+.side-nav {
+  margin-top: 56px;
+}
+
+@media (max-width:767px) {
+
+  .header__hamburger,
+  .side-nav {
+    display: block;
+  }
+
+  .header__title,
+  .header__desktop-nav-list {
+    display: none;
+  }
+}
+
+@media(min-width:768px) {
+
+  .header__hamburger,
+  .side-nav {
+    display: none;
+  }
+
+  .header__title,
+  .header__desktop-nav-list {
+    display: block;
+  }
+}
+
+.mat-list-base {
+  min-width: 180px;
+}
