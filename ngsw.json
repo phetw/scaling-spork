@@ -7,15 +7,17 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/scaling-spork/4.72a77c2b49cc4d5ca79b.js",
-        "/scaling-spork/5.9ea1b39a910739a3d594.js",
-        "/scaling-spork/6.f2cd473021f2f52ba8de.js",
+        "/scaling-spork/5.bef72a44b0b2dc72b053.js",
+        "/scaling-spork/6.ec2ee3e9c9d874f74a47.js",
+        "/scaling-spork/7.b47245eff5e0a196f7fa.js",
+        "/scaling-spork/8.4761ea4db2845039989f.js",
+        "/scaling-spork/common.b92ee6645330cae2829c.js",
         "/scaling-spork/favicon.ico",
         "/scaling-spork/index.html",
-        "/scaling-spork/main.b49b5b3f651dbf5027cd.js",
-        "/scaling-spork/polyfills.1ef83d22ada557f4a131.js",
-        "/scaling-spork/runtime.d343928a92dcdc7d4a69.js",
-        "/scaling-spork/styles.099086f70931e0c5501e.css"
+        "/scaling-spork/main.78f3357d30fe504dd45a.js",
+        "/scaling-spork/polyfills.beb91b000bc0e851c7bc.js",
+        "/scaling-spork/runtime.23e08385f4d0c45d120a.js",
+        "/scaling-spork/styles.83e0ff0171d7bae32cde.css"
       ],
       "patterns": []
     },
@@ -38,9 +40,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/scaling-spork/4.72a77c2b49cc4d5ca79b.js": "30ae49adadc5abf75a229ed55c98ff93effe1193",
-    "/scaling-spork/5.9ea1b39a910739a3d594.js": "77a234efe2d43d62140dd921870d05241acfb0cb",
-    "/scaling-spork/6.f2cd473021f2f52ba8de.js": "32d660a89012df0aeb62b38f693794cdb2be9fbf",
+    "/scaling-spork/5.bef72a44b0b2dc72b053.js": "3b8dc7a3bd937ebddfebdd6626af380ae9928b6e",
+    "/scaling-spork/6.ec2ee3e9c9d874f74a47.js": "6ddc665f42b7a8609ec78b4962ce5c6b97b7c05f",
+    "/scaling-spork/7.b47245eff5e0a196f7fa.js": "8f98e117f80c310f9f0aa1827317d291dcbbc154",
+    "/scaling-spork/8.4761ea4db2845039989f.js": "78183e31c372114b2764a1372fc1f241d0beee93",
     "/scaling-spork/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/scaling-spork/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/scaling-spork/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -49,12 +52,13 @@
     "/scaling-spork/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/scaling-spork/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/scaling-spork/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/scaling-spork/common.b92ee6645330cae2829c.js": "eaba2aef80ff5ac88e0edc83dbe0fa0c511253cc",
     "/scaling-spork/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/scaling-spork/index.html": "5e1beadc242b4d41a3e3294f152ca7efc029c64b",
-    "/scaling-spork/main.b49b5b3f651dbf5027cd.js": "9faa5b8664ae47abad601ed5e9196af0729c5cd4",
-    "/scaling-spork/polyfills.1ef83d22ada557f4a131.js": "f5c688c6cdf730d54759e30839fbd417dbe38e31",
-    "/scaling-spork/runtime.d343928a92dcdc7d4a69.js": "39c10e0d33d03d1d06e600eaef807eb9868a38d2",
-    "/scaling-spork/styles.099086f70931e0c5501e.css": "b5f639a27a4b51ecf8a34dcc88c7f508d70f8008"
+    "/scaling-spork/index.html": "04b5680807d632b60a7d24b82d47c26dcd4cac9c",
+    "/scaling-spork/main.78f3357d30fe504dd45a.js": "268b17a54bd3ee644277393dc152ae84cdf52e20",
+    "/scaling-spork/polyfills.beb91b000bc0e851c7bc.js": "d06fe27ea2654e2f90a01a4ddf617cf984942554",
+    "/scaling-spork/runtime.23e08385f4d0c45d120a.js": "9a37f53db92a150d0ed6e26f04541a9d4c8d7b1d",
+    "/scaling-spork/styles.83e0ff0171d7bae32cde.css": "2b0457e5fc692a2d99cdb27ba647e967fbbd3ef9"
   },
   "navigationUrls": [
     {
