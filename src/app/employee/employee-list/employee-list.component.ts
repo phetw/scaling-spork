@@ -1,13 +1,14 @@
-import { Component, OnInit, OnDestroy } from '@angular/core'
+import { Component, OnInit } from '@angular/core'
 import { EmployeeService } from '@app/core/service/employee.service'
+import { Observable } from 'rxjs'
 import { Employee } from '@app/store/employee/employee.model'
 @Component({
   selector: 'app-employee-list',
   templateUrl: './employee-list.component.html',
   styleUrls: ['./employee-list.component.scss'],
 })
-export class EmployeeListComponent implements OnInit, OnDestroy {
-  employees$: Array<Employee>
+export class EmployeeListComponent implements OnInit {
+  employees$: Observable<Employee[]>
 
   constructor(private employeeService: EmployeeService) {}
 
@@ -16,14 +17,8 @@ export class EmployeeListComponent implements OnInit, OnDestroy {
   }
 
   getEmployeeData() {
-    this.employeeService.getEmployees().subscribe(result => {
-      this.employees$ = result
-    })
+    this.employees$ = this.employeeService.getEmployees()
   }
 
-  trackByFunc(index, item) {
-    return item.id
-  }
-
-  ngOnDestroy() {}
+  trackByFunc = (index, item) => item.id
 }
