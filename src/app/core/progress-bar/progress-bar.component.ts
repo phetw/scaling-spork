@@ -3,7 +3,7 @@ import { Router, Event, NavigationStart, NavigationEnd, NavigationCancel, Naviga
 
 @Component({
   selector: 'app-progress',
-  templateUrl: './progress-bar.component.html',
+  template: '<mat-progress-bar *ngIf="loading" mode="indeterminate" color="accent"></mat-progress-bar>',
 })
 export class ProgressBarComponent {
   loading: Boolean = false
