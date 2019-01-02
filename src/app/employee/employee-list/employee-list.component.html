@@ -1,4 +1,4 @@
-<section *ngFor="let employee of employees$">
+<section *ngFor="let employee of employees$; trackBy: trackByFunc">
   <mat-card class="employee">
     <h3>{{employee.firstname}} {{employee.lastname}} </h3>
     <p>

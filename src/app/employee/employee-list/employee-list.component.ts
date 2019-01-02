@@ -21,5 +21,9 @@ export class EmployeeListComponent implements OnInit, OnDestroy {
     })
   }
 
+  trackByFunc(index, item) {
+    return item.id
+  }
+
   ngOnDestroy() {}
 }
